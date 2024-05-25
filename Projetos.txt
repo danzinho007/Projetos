@@ -1,58 +1,75 @@
 ﻿Folhas :
 
-Alfabeto Coreano
-Aprendendo Árabe
-Aprendendo Coreano
-Aprendendo Russo
-Asda Story 
+Aprendendo Alemão (01) = 
+Aprendendo Árabe (01) = 
+Aprendendo Coreano = OK 10
+Aprendendo Esperanto (01) = 
+Aprendendo Francês (01) = 
+Aprendendo Inglês (01) = 
+Aprendendo Italiano (01) = 
+Aprendendo Japonês = OK 01
+Aprendendo Mandarim (01) = 
+Aprendendo Russo (02) = 
+Asda Story (01) = 
 
-Bases Numéricas
-Breath of Fire
-Breath of Fire III
-Celestial Luna 
-Curso de Java
-Dungeon Defenders
-Empire Earth 2
+Bases Numéricas () = 
+Breath of Fire (08) = OK 14 
+Cardfight Vanguard (01) = 
+Celestial Luna (02) = 
+Crash Team Racing (01) = 
+Curso de Java (02) = 
+Diablo III = OK 02
+Dungeon Defenders () = Vou usar 
+Empire Earth 2 (01) = 
 
-Final Fantasy I
-Flyff
-Football Manager
+Far Cry 4 (01) = 
+Final Fantasy I (03) = 
+Flyff (03) = 
+Football Manager (01) = 
 
-Game Dev Tycoon
-Goof of Troop
-Japonês
+Game Dev Tycoon () = Vou usar 
+Goof of Troop = OK 08
+Gran Turismo 06 (04) = 
+Grand Chase = OK 06
+Harvest Moon (01) = 
+Horizon Chase Turbo = OK 11
+Iris Online (01) = Vou usar
+Jogos de Ps4 = Vou usar
 
-Linguagem C
-Livro jogo : A Floresta da Destruição
-Lógica de Programação - Algoritmo
+Linguagem C (01) = 
+Livros = OK 09
+Livro jogo : A Floresta da Destruição (03) = 
+Livro jogo : Estandarte Sangrento = OK 05
+Lógica de Programação - Algoritmo (04) = OK 16 
 
-Maple Story BMS
-Músicas
-Mythoria
-Omega Quintet - PS4
+Magic (03) = 
+Maple Story BMS (03) = 
+Marketing Digital (01) =
+Minecraft (01) = 
+Músicas = OK 
+Mythoria (01) = 
+Omega Quintet - PS4 = OK 11
 
-PES 2015
-Pokémon Gold
-Pokémon Rumble
-Pokémon Yellow
-Project Diva PS3
+Pangya (01) = 
+Pascal (01) = 
+PES 2015 = OK 12
+Pokémon = OK 04
+Project Diva PS3 () = OK 15
 
-Recettear 
-Spectromancer
-The Sims 
-Xadrez
-Yu-Gi-Oh 5Ds mangá
-Yu-Gi-Oh Animes
-Yu-Gi-Oh Duel Links
-Yu-Gi-Oh GX Duel Academy
-Yu-Gi-Oh História
-Yu-Gi-Oh Millenium Duels
-Yu-Gi-Oh Nightmare Troubador
-Yu-Gi-Oh Saikyo
-Yu-Gi-Oh The Eternal Duelist Soul
-Yu-Gi-Oh World Championship
-Yu-Gi-Oh Zexal World Duel Carnival
-
+Recettear () = 
+RPG Maker (01) = 
+Side Pocket (01) = 
+Spectromancer (01) = 
+SQL Server (01) = 
+Super Mario Kart (01) = 
+Syphon Filter 03 (02) = 
+Terraria (05) = OK 17
+The Sims (02) = 
+Torchlight 2 (01) = 
+Trapped (01) =
+Xadrez Aberturas = OK 13
+Yu-Gi-Oh = OK 07
+Yu-Gi-Oh World Championship = OK 08
 ==========================================================
 
 Criar pasta :
