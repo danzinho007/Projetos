@@ -1,4 +1,385 @@
-﻿Folhas :
+﻿Youtube Playlist :
+
+153 vídeos !!!
+
+        1-  Advance Wars = 1
++ 10 = 11-  Dungeon Defenders = 10
++ 03 = 14-  Duolingo = 3
++ 29 = 43-  Grand Chase = 29
++ 14 = 57-  Grand Chase Classic = 14
++ 04 = 61-  Novidades = 4
++ 03 = 64-  Portugol com VisualG = 3
++ 02 = 66-  Segurança Defensiva = 2
++ 40 = 106- Terraria Evolution = 40
++ 09 = 115- Xadrez Aprendendo = 9
++ 10 = 125- Xadrez Duelo de Bots = 10
++ 09 = 134- Xadrez Personalidade = 9
++ 02 = 136- YGOPro = 2
++ 03 = 139- Yu-Gi-Oh Aprendendo = 3
++ 01 = 140- Yu-Gi-Oh Duel Links = 1
++ 01 = 141- Yu-Gi-Oh GX Tag Force = 1
++ 02 = 143- Yu-Gi-Oh Programas = 2
++ 08 = 151- Yu-Gi-Oh Special = 8
++ 02 = 153- Yu-Gi-Oh The Eternal Duelist Soul = 2
++ 01 = 154- Yu-Gi-Oh World Championship 2007 = 1
+
+Youtube Vídeos :
+
+Extras :
+1- Novidades
+2- 
+
+Algoritmo 
+1- Exercícios Parte 01 
+2- Exercícios Parte 02
+3- Revisão 01
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Dungeon Defenders
+1- Versões que eu tenho 
+Arquivo Versoes.txt da pasta Dungeon Defenders
+2- v7.0 Parte 01
+The Deeper Well - Easy
+Escudeiro + Caçadora + Aprendiz + Monge
+Obs1 : Falei Guerreiro mas é Escudeiro
+       ... Arqueira mas é Caçadora
+       ... Mago mas é Aprendiz
+Obs2 : Esqueci de falar sobre o Monge
+3- v7.0 Parte 02
+Foundries and Forges - Easy = Falha
+Escudeiro + Caçadora + Aprendiz + Monge
+4- v7.0 Parte 03
+Foundries and Forges - Easy
+Escudeiro + Caçadora + Aprendiz + Monge
+5- v7.0 Parte 04
+The Deeper Well - Medium 
+Escudeiro + Caçadora + Aprendiz + Monge
+Foundries and Forges - Medium = cancelei
+Magus Quarters - Easy 
+
+6- v7.0 Parte 05
+THe Deeper Well - Hard 
+Alchemical Laboratory - 
+
+7- v7.0 Parte 06
+8- v7.0 Parte 07
+9- v7.0 Parte 08
+10- v7.0 Parte 09
+11- v7.0 Parte 10
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Duolingo 
+1- Dia 01
+2- Dia 02
+3- Dia 03
+
+Grand Chase 
+1- Só Mari 01
+2- Só Mari 02
+3- Só Mari 03
+4- Só Mari 04
+5- Só Mari 05
+6- Só Mari 06
+7- Só Mari 07
+8- Só Mari 08
+9- Só Mari 09
+10- Só Mari 10
+11- Só Mari 11
+12- Só Mari 12
+13- Só Mari 13
+14- Só Mari 14
+15- Só Mari 15
+16- Só Mari 16
+17- Só Mari 17
+18- Só Mari 18
+19- Só Mari 19
+20- Só Mari 20
+21- Só Mari 21
+22- Só Mari 22
+23- Só Mari 23
+24- Bônus 01
+25- Só Mari 24
+26- Só Mari 25
+27- Só Mari 26
+28- Só Mari 27
+29- Bônus 02
+30- Bônus 03
+31- Bônus 04
+32- Bônus 05
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Planet Evolution = 1
+1- Planet 30 min sem clicar 
+
+Python 
+1 - Exercícios 01
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Terraria Evolution 
+1- Parte 01
+2- Parte 02
+3- Parte 03
+4- Parte 04
+5- Parte 05
+6- Parte 06
+7- Parte 07
+8- Parte 08
+9- Parte 09
+10- Parte 10
+11- Parte 11
+12- Parte 12
+13- Parte 13
+14- Parte 14
+15- Parte 15
+16- Parte 16
+17- Parte 17
+18- Parte 18
+19- Parte 19
+20- Parte 20
+21- Parte 21
+22- Parte 22
+23- Parte 23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Xadrez = 15
+01 = Chessmaster Cassie = 3
+02 = Chessmaster Bot Topalov vs Hort
+03 = Chessmaster Dia 01 
+04 = Chessmaster Dia 02
+05 = Chessmaster Dia 03
+06 = Chessmaster Dia 04
+07 = Chessmaster Pete 37 = 2
+08 = Xadrez Dia 05
+09 = Xadrez Dia 06
+10 = Xadrez Martin 250
+11 = Xadrez Dia 07
+12 = Xadrez App Candidato a Mestre 
+13 = Chessmaster Niko 
+14 = Chessmaster Explicando
+15 = Chesskid
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Yu-Gi-Oh 
+1- YGOPro Versões que eu tenho
+2- EdoPro Duelos Parte 2
+3- EDOPro Advinhando cartas 
+4- Explorando o EDOPro 
+5- Aprendendo Yu-Gi-Oh Parte 01 Speed
+6- Explorando o KoishiPro 
+7- Aprendendo Yu-Gi-Oh Parte 02 Rush
+8- 
+
+Folhas :
 
 Aprendendo Alemão (01) = 
 Aprendendo Árabe (01) = 
@@ -122,15 +503,6 @@ Working Memory
 
 Vocabul�rio
 
-brain
-compeleed
-earlier
-eroding
-fidgety
-growing
-restless
-scary
-tough
 
 Pokemon 3Ds
 
